@@ -5,4 +5,7 @@ export class AppService {
   getHello(): string {
     return 'Hello World from Chandrakanth Polishetty!';
   }
+  getAbout(): string {
+    return 'Chandrakanth Polishetty - Software developer.';
+  }
 }
