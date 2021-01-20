@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Nest is a framework which uses HTTP Server frameworks like Express and Fastify, where Express is default.
 
 ## Installation
 
