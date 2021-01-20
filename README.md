@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Nest is a framework which uses HTTP Server frameworks like Express and Fastify, where Express is default.
 
 ## Installation
 
@@ -71,3 +71,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Links
+
+- https://github.com/Chandupolisetty/cp-nest-api
+- https://cp-nest-api.herokuapp.com/
